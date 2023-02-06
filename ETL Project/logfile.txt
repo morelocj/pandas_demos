@@ -6,3 +6,135 @@
 2023-Feb-03-11:05:12,Load phase Started
 2023-Feb-03-11:05:12,Load phase Ended
 2023-Feb-03-11:05:16,ETL Job Ended
+2023-Feb-06-09:45:56,ETL Job Started
+2023-Feb-06-09:45:59,Extract phase Started
+2023-Feb-06-09:47:23,Extract phase Started
+2023-Feb-06-09:47:31,Transform phase Started
+2023-Feb-06-09:50:17,ETL Job Started
+2023-Feb-06-09:50:20,Extract phase Started
+2023-Feb-06-09:51:08,Extract phase Started
+2023-Feb-06-09:52:53,Load phase Started
+2023-Feb-06-10:01:34,Extract phase Started
+2023-Feb-06-10:02:44,ETL Job Started
+2023-Feb-06-10:02:46,Extract phase Started
+2023-Feb-06-10:06:33,Extract phase Started
+2023-Feb-06-10:12:50,Extract phase Started
+2023-Feb-06-10:20:15,Extract phase Started
+2023-Feb-06-10:21:42,Extract phase Started
+2023-Feb-06-10:21:42,Extract phase Ended
+2023-Feb-06-10:22:10,Transform phase Started
+2023-Feb-06-10:22:10,Transform phase Ended
+2023-Feb-06-10:22:30,Load phase Started
+2023-Feb-06-10:22:30,Load phase Ended
+2023-Feb-06-10:22:33,ETL Job Ended
+2023-Feb-06-10:38:02,Extract phase Started
+2023-Feb-06-10:38:02,Extract phase Ended
+2023-Feb-06-10:38:16,Extract phase Started
+2023-Feb-06-10:38:16,Extract phase Ended
+2023-Feb-06-10:38:19,Extract phase Started
+2023-Feb-06-10:38:19,Extract phase Ended
+2023-Feb-06-10:40:04,Extract phase Started
+2023-Feb-06-10:40:04,Extract phase Ended
+2023-Feb-06-10:43:10,Extract phase Started
+2023-Feb-06-10:43:10,Extract phase Ended
+2023-Feb-06-11:01:58,ETL Job Started
+2023-Feb-06-11:02:00,Extract phase Started
+2023-Feb-06-11:02:00,Extract phase Ended
+2023-Feb-06-11:03:34,Extract phase Started
+2023-Feb-06-11:03:34,Extract phase Ended
+2023-Feb-06-11:14:05,ETL job started
+2023-Feb-06-11:14:05,exctraction started
+2023-Feb-06-11:14:05,extraction completed
+2023-Feb-06-11:14:05,transform started
+2023-Feb-06-11:14:05,transform complete
+2023-Feb-06-11:14:05,load started
+2023-Feb-06-11:14:05,load complete
+2023-Feb-06-11:14:05,ETL process complete
+2023-Feb-06-11:15:37,ETL job started
+2023-Feb-06-11:15:37,exctraction started
+2023-Feb-06-11:15:37,extraction completed
+2023-Feb-06-11:15:37,transform started
+2023-Feb-06-11:15:37,transform complete
+2023-Feb-06-11:15:37,load started
+2023-Feb-06-11:15:37,load complete
+2023-Feb-06-11:15:37,ETL process complete
+2023-Feb-06-11:16:14,ETL job started
+2023-Feb-06-11:16:14,exctraction started
+2023-Feb-06-11:16:14,extraction completed
+2023-Feb-06-11:16:14,transform started
+2023-Feb-06-11:16:50,ETL job started
+2023-Feb-06-11:16:50,exctraction started
+2023-Feb-06-11:16:50,extraction completed
+2023-Feb-06-11:16:50,transform started
+2023-Feb-06-11:17:23,ETL job started
+2023-Feb-06-11:17:23,exctraction started
+2023-Feb-06-11:17:23,extraction completed
+2023-Feb-06-11:17:23,transform started
+2023-Feb-06-11:17:23,transform complete
+2023-Feb-06-11:17:23,load started
+2023-Feb-06-11:17:23,load complete
+2023-Feb-06-11:17:23,ETL process complete
+2023-Feb-06-11:19:56,ETL job started
+2023-Feb-06-11:19:56,exctraction started
+2023-Feb-06-11:19:56,extraction completed
+2023-Feb-06-11:19:56,transform started
+2023-Feb-06-11:19:56,transform complete
+2023-Feb-06-11:19:56,load started
+2023-Feb-06-11:19:56,load complete
+2023-Feb-06-11:19:56,ETL process complete
+2023-Feb-06-11:25:43,ETL job started
+2023-Feb-06-11:25:43,exctraction started
+2023-Feb-06-11:25:43,extraction completed
+2023-Feb-06-11:25:43,transform started
+2023-Feb-06-11:25:43,transform complete
+2023-Feb-06-11:25:43,load started
+2023-Feb-06-11:25:43,load complete
+2023-Feb-06-11:25:43,ETL process complete
+2023-Feb-06-11:27:42,ETL job started
+2023-Feb-06-11:27:42,exctraction started
+2023-Feb-06-11:27:42,extraction completed
+2023-Feb-06-11:27:42,transform started
+2023-Feb-06-11:27:42,transform complete
+2023-Feb-06-11:27:42,load started
+2023-Feb-06-11:27:42,load complete
+2023-Feb-06-11:27:42,ETL process complete
+2023-Feb-06-11:28:03,ETL job started
+2023-Feb-06-11:28:03,exctraction started
+2023-Feb-06-11:28:03,extraction completed
+2023-Feb-06-11:28:03,transform started
+2023-Feb-06-11:28:03,transform complete
+2023-Feb-06-11:28:03,load started
+2023-Feb-06-11:28:03,load complete
+2023-Feb-06-11:28:03,ETL process complete
+2023-Feb-06-11:32:33,ETL job started
+2023-Feb-06-11:32:33,exctraction started
+2023-Feb-06-11:32:33,extraction completed
+2023-Feb-06-11:32:33,transform started
+2023-Feb-06-11:32:33,transform complete
+2023-Feb-06-11:32:33,load started
+2023-Feb-06-11:32:33,load complete
+2023-Feb-06-11:32:33,ETL process complete
+2023-Feb-06-11:32:45,ETL job started
+2023-Feb-06-11:32:45,exctraction started
+2023-Feb-06-11:32:45,extraction completed
+2023-Feb-06-11:32:45,transform started
+2023-Feb-06-11:32:45,transform complete
+2023-Feb-06-11:32:45,load started
+2023-Feb-06-11:32:45,load complete
+2023-Feb-06-11:32:45,ETL process complete
+2023-Feb-06-11:52:22,ETL job started
+2023-Feb-06-11:52:22,exctraction started
+2023-Feb-06-11:52:22,extraction completed
+2023-Feb-06-11:52:22,transform started
+2023-Feb-06-11:52:22,transform complete
+2023-Feb-06-11:52:22,load started
+2023-Feb-06-11:52:22,load complete
+2023-Feb-06-11:52:22,ETL process complete
+2023-Feb-06-11:54:49,ETL Job Started
+2023-Feb-06-11:54:51,Extract phase Started
+2023-Feb-06-11:54:51,Extract phase Ended
+2023-Feb-06-11:54:59,Transform phase Started
+2023-Feb-06-11:54:59,Transform phase Ended
+2023-Feb-06-11:55:03,Load phase Started
+2023-Feb-06-11:55:03,Load phase Ended
+2023-Feb-06-11:55:06,ETL Job Ended

@@ -1,0 +1,34 @@
+2023-Feb-06-10:50:31,ETL job started
+2023-Feb-06-10:50:31,exctraction started
+2023-Feb-06-10:50:31,extraction completed
+2023-Feb-06-10:50:31,transform started
+2023-Feb-06-10:51:55,ETL job started
+2023-Feb-06-10:51:55,exctraction started
+2023-Feb-06-10:51:55,extraction completed
+2023-Feb-06-10:51:55,transform started
+2023-Feb-06-10:51:55,transform complete
+2023-Feb-06-10:51:55,load started
+2023-Feb-06-10:51:55,load complete
+2023-Feb-06-10:51:55,ETL process complete
+2023-Feb-06-10:53:05,ETL job started
+2023-Feb-06-10:53:05,exctraction started
+2023-Feb-06-10:53:05,extraction completed
+2023-Feb-06-10:53:05,transform started
+2023-Feb-06-10:53:05,transform complete
+2023-Feb-06-10:53:05,load started
+2023-Feb-06-10:53:15,ETL job started
+2023-Feb-06-10:53:15,exctraction started
+2023-Feb-06-10:53:15,extraction completed
+2023-Feb-06-10:53:15,transform started
+2023-Feb-06-10:53:15,transform complete
+2023-Feb-06-10:53:15,load started
+2023-Feb-06-10:53:15,load complete
+2023-Feb-06-10:53:15,ETL process complete
+2023-Feb-06-10:54:28,ETL job started
+2023-Feb-06-10:54:28,exctraction started
+2023-Feb-06-10:54:28,extraction completed
+2023-Feb-06-10:54:28,transform started
+2023-Feb-06-10:54:28,transform complete
+2023-Feb-06-10:54:28,load started
+2023-Feb-06-10:54:28,load complete
+2023-Feb-06-10:54:28,ETL process complete
